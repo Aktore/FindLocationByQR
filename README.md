@@ -1,4 +1,4 @@
-# FindLocationByQR
+# FindLocationByQR version 1.0.0
 # Qr code image encoder.   
 This program created as Telegram bot application.   
 Bot receive QR Code as image. QR code image supposed as encoded string "lat,lon" location info.   
